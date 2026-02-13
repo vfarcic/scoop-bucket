@@ -1,11 +1,11 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.1",
     "description": "CLI for the dot-ai Kubernetes AI assistant",
     "homepage": "https://github.com/vfarcic/dot-ai-cli",
     "license": "MIT",
     "architecture": {
 "64bit": {
-    "url": "https://github.com/vfarcic/dot-ai-cli/releases/download/v1.1.0/dot-ai-windows-amd64.exe",
+    "url": "https://github.com/vfarcic/dot-ai-cli/releases/download/1.2.1/dot-ai-windows-amd64.exe",
     "hash": "5a9310d4ddb07941e8184d83d4c7e7d82358eca3c5248f6c122f3a5fbda4305f"
 }
     },
