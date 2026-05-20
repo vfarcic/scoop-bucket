@@ -1,15 +1,15 @@
 {
-    "version": "0.24.7",
+    "version": "0.25.0-alpha.0",
     "description": "TUI dashboard for monitoring AI agent sessions",
     "homepage": "https://github.com/vfarcic/dot-agent-deck",
     "license": "MIT",
     "architecture": {
 "64bit": {
-    "url": "https://github.com/vfarcic/dot-agent-deck/releases/download/v0.24.7/dot-agent-deck-windows-amd64.exe",
+    "url": "https://github.com/vfarcic/dot-agent-deck/releases/download/v0.25.0-alpha.0/dot-agent-deck-windows-amd64.exe",
     "hash": ""
 }
     },
-    "bin": [["dot-agent-deck-windows-amd64.exe", "dot-agent-deck"]],
+    "bin": [["dot-agent-deck-windows-amd64.exe", "dot-agent-deck-beta"]],
     "checkver": "github",
     "autoupdate": {
 "architecture": {
