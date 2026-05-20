@@ -9,7 +9,7 @@
     "hash": ""
 }
     },
-    "bin": [["dot-agent-deck-windows-amd64.exe", "dot-agent-deck-beta"]],
+    "bin": [["dot-agent-deck-windows-amd64.exe", "dot-agent-deck"]],
     "checkver": "github",
     "autoupdate": {
 "architecture": {
